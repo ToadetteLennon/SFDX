@@ -5,8 +5,8 @@
 3. git commit -m "chore/fix(nombre del archivo): Mensaje"
 4. git push
 
-chore: agregar
-fix: modificar
+´chore: agregar´
+´fix: modificar´
 
 - git checkout nombre_rama: cambiar de una rama a otra
 - git branch -a: ver las ramas existentes 
@@ -16,5 +16,6 @@ fix: modificar
 
 **NOTA:** clonar un repositorio no significa que vas a clonar las ramas actuales o las que se vallan generando, para ello utilizaremos git fetch o git fetch --all.
 
+[Página para modificar readme](https://dillinger.io/)
 
 
