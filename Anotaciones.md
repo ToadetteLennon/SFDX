@@ -5,8 +5,8 @@
 3. git commit -m "chore/fix(nombre del archivo): Mensaje"
 4. git push
 
-´chore: agregar´
-´fix: modificar´
+- chore: agregar
+- fix: modificar
 
 - git checkout nombre_rama: cambiar de una rama a otra
 - git branch -a: ver las ramas existentes 
